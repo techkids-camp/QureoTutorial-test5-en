@@ -1,11 +1,11 @@
 /**
- * Custom blocks
+ * Custom blocks TEST5
  */
 //% color=#D83B01 weight=400 icon="\uf1e6" block="Agent"
 namespace hiragana_agent {
 
     //% blockId=hiragana_agent_8
-    //% block="agent teleport to player"
+    //% block="agent teleport to player TEST5"
     export function teleportToPlayer(): void {
         agent.teleportToPlayer();
     }
